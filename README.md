@@ -4,4 +4,4 @@ Performing analysis on Kickstarters data to help the client make a better decisi
 <img src="/resources/Outcomes_vs_Goals.png">
 
 
-![A] (https://github.com/Ehsan-O/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch] (https://github.com/Ehsan-O/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
