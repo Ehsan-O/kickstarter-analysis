@@ -19,7 +19,7 @@ The launch dates provided in the data (column"J" of the "kickstarter" sheet exce
 <p float="left">
   <img src="/other/launch-unix.PNG" width="200">
   <img src="/other/converted-date.PNG" width="500">
-  <img src="/other/year.PNG" width="200">
+  <img src="/other/year.PNG" width="100">
 </p>  
 
 ### Analysis of Outcomes Based on Goals
