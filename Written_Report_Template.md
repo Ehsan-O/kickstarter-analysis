@@ -18,8 +18,8 @@ we elaborate on each in the following sections.
 The launch dates provided in the data (column"J" of the "kickstarter" sheet excel file: kickstarter challenge.xlsx) are unix timestamps so first we needed to convert them to gregorian date format (Column "S" and "T" of the kickstarter sheet). then we add another column labaled "years" containing only the year each campaign started so wecan filter our data by year if it is needed.
 <p float="left">
   <img src="/other/launch-unix.PNG" width="200">
-  <img src="/other/date-converted.PNG" width="500">
-  <img src="/other/year.PNG" width="100">
+  <img src="/other/date-converted.PNG" width="400">
+  <img src="/other/year.PNG" width="150">
 </p>  
 
 ### Analysis of Outcomes Based on Goals
