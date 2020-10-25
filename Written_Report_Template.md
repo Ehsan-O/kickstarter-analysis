@@ -50,12 +50,13 @@ After calculating the percentage for each outcome (see the above table) a chart 
 ### **Challenges and Difficulties Encountered**
 When using "COUNTIFS" or generally any formula that uses conditional statements one should always make sure that the conditional statements are correct just a making a simple mistake by writing ">" instead of ">=" may cause a big error in final result, something that happened once in our analysis and it took some time to find the source of error.
 
-## Results
+## **Results**
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- Accoording to the chart created to show number of outcomes vs. launch date of campaigns it can be clearly seen that the most number of successful theater campaigns were started in May.
+- Also the chart illustrates that December may not be a good time to start a campaign as the number of successful events drops considerably in December.
 
-- What can you conclude about the Outcomes based on Goals?
+- The graph for Outcomes vs.funding goals shows that there is a higher probability of success if a playy campaign goal is less than $10000
 
-- What are some limitations of this dataset?
+- the graph also shows that chance of success for a play campaign with a funding goal in the range of $35000 is 67 percent but the lack Of data in this range makes this conclusion quastionable.(there are only 6 records in the dataset for tis range compare to almost 900 records for goals under $10000)
 
-- What are some other possible tables and/or graphs that we could create?
+- To reach a more accurate conlusion in our analysis for theater campaigns outcomes based on launch date another graph could have been added to show the prcentage of outcomes vs. lunch date 
