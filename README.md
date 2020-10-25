@@ -1,5 +1,4 @@
-# Kickstarting with Excel
-
+# **Fundraising Campaign**
 ## **Overview of Project**
 in this project we are helping a client with her fundrasing campaign
 
