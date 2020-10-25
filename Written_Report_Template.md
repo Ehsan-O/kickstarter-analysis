@@ -29,7 +29,7 @@ then we used a pivot table to interprete the data by setting the columns of the 
 Finally a pivot chart was created based on the pivot table:  
 
 
-<img src="/resourses/Theater_Outcomes_vs_Launch.png">
+<img src="/resources/Theater_Outcomes_vs_Launch.png">
 
 ### Analysis of Outcomes Based on Goals
 
