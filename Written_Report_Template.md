@@ -39,7 +39,13 @@ To perform this analysis we dicided the funding goal data into set of intervals 
 
 As mentioned before we created this table based on the data belong to "play" subcategory, a good way to do so is to use "COUNTIFS" function. Here you can see the formula written to calculate the number of successful play campaigns with funding goals in the range of $1000 to $4999:  
 
-<img src="/other/countifs.PNG">
+<img src="/other/countifs.PNG">  
+
+After calculating the percentage for each outcome (see the above table) a chart was created to show the percentage of each outcome vs. the funding goal intervals:  
+
+<img src="/resources/Outcomes_vs_Goals.png">  
+
+
 
 ### Challenges and Difficulties Encountered
 
