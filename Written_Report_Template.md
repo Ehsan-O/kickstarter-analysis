@@ -41,7 +41,7 @@ As mentioned before we created this table based on the data belong to "play" sub
 
 <img src="/other/countifs.PNG">  
 
-After calculating the percentage for each outcome (see the above table) a chart was created to show the percentage of each outcome vs. the funding goal intervals:  
+After calculating the percentage for each outcome by dividing the number of occurance of the outcome by the total number of projects (see the above table) a chart was created to show the percentage of each outcome vs. the funding goal intervals:  
 
 <img src="/resources/Outcomes_vs_Goals.png">  
 
@@ -57,6 +57,6 @@ When using "COUNTIFS" or generally any formula that uses conditional statements 
 
 - The graph for Outcomes vs.funding goals shows that there is a higher probability of success if a playy campaign goal is less than $10000
 
-- the graph also shows that chance of success for a play campaign with a funding goal in the range of $35000 is 67 percent but the lack Of data in this range makes this conclusion quastionable.(there are only 6 records in the dataset for tis range compare to almost 900 records for goals under $10000)
+- the graph also shows that chance of success for a play campaign with a funding goal in the range of $35000 to $44999 is 67 percent but the lack Of data in this range makes this conclusion quastionable.(there are only 9 records in the dataset for tis range compare to almost 900 records for goals under $10000)
 
-- To reach a more accurate conlusion in our analysis for theater campaigns outcomes based on launch date another graph could have been added to show the prcentage of outcomes vs. lunch date 
+- To reach a morb accurate conlusion in our analysis for theater campaigns outcomes based on launch date another graph could have been added to show the prcentage of outcomes vs. lunch date 
