@@ -1,12 +1,23 @@
 # Kickstarting with Excel
 
-## Overview of Project
+## **Overview of Project**
+in this project we are helping a client with her fundrasing campaign
 
-### Purpose
+### **Purpose**
+Our client is a playwright who wants to start a crowdfunding campaign to help fund her play. She wants to know if there is any relations between the launch date and funding goals of the campaigns and their success rate.
+We extracted and used the data from a corowdfunding campaign website to perform our analysis.
 
-## Analysis and Challenges
+## **Analysis and Challenges**
+Our analysis consists of two parts as follows
+1. Analysis of outcomes based on launch Date of the campaigns related to theater
+2. Analysis of outcomes based on fundig goals of play campagins
 
-### Analysis of Outcomes Based on Launch Date
+we elaborate on each in the following sections.
+
+### **Analysis of Outcomes Based on Launch Date**
+The launch dates provided in the data (column"J" of the "kickstarter" sheet excel file: kickstarter challenge.xlsx) are unix timestamps so first we needed to convert them to gregorian date format (Column "S" and "T" of the kickstarter sheet)
+<img src="/other/launch-unix.png">
+
 
 ### Analysis of Outcomes Based on Goals
 
