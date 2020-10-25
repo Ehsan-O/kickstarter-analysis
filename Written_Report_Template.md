@@ -22,7 +22,7 @@ The launch dates provided in the data (column"J" of the "kickstarter" sheet exce
   <img src="/other/year.PNG" width="140">
 </p>  
 then we used a pivot table to interprete the data by setting the columns of the table to show the outcomes of the campaign and the rows to show the launch date of them. values in the pivot table are number of each outcome. in the later versions of excel the software automatically groups the dates in row labels and show the months of the year so there is no need to group them manually.we also picked the years and parent category as parameters for filtering the pivot table and set the parent category to "theater". Here is a figure of the pivot table:
-<img src="/other/pivot.PNG">
+<img src="/other/pivot.PNG" width="200">
 
 ### Analysis of Outcomes Based on Goals
 
