@@ -3,4 +3,4 @@ Performing analysis on Kickstarters data to help the client make a better decisi
 
 <img src="/resources/Outcomes_vs_Goals.png">
 
-<img src="/resources/Outcomes_vs_Goals.png">
+<img src="/resources/Theater_Outcomes_vs_Launch.png">
