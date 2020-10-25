@@ -47,7 +47,8 @@ After calculating the percentage for each outcome (see the above table) a chart 
 
 
 
-### Challenges and Difficulties Encountered
+### **Challenges and Difficulties Encountered**
+When using "COUNTIFS" or generally any formula that uses conditional statements one should always make sure that the conditional statements are correct just a making a simple mistake by writing ">" instead of ">=" may cause a big error in final result, something that happened once in our analysis and it took some time to find the source of error.
 
 ## Results
 
