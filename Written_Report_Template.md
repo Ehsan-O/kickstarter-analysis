@@ -18,9 +18,11 @@ we elaborate on each in the following sections.
 The launch dates provided in the data (column"J" of the "kickstarter" sheet excel file: kickstarter challenge.xlsx) are unix timestamps so first we needed to convert them to gregorian date format (Column "S" and "T" of the kickstarter sheet). then we add another column labaled "years" containing only the year each campaign started so wecan filter our data by year if it is needed.
 <p float="left">
   <img src="/other/launch-unix.PNG" width="200">
-  <img src="/other/date-converted.PNG" width="400">
-  <img src="/other/year.PNG" width="150">
+  <img src="/other/date-converted.PNG" width="350">
+  <img src="/other/year.PNG" width="140">
 </p>  
+then we used a pivot table to interprete the data by setting the columns of the table to show the outcomes of the campaign and the rows to show the launch date of them. values in the pivot table are number of each outcome. in the later versions of excel the software automatically groups the dates in row labels and show the months of the year so there is no need to group them manually.we also picked the years and parent category as parameters for filtering the pivot table and set the parent category to "theater". Here is a figure of the pivot table:
+<img src="/other/pivot.PNG">
 
 ### Analysis of Outcomes Based on Goals
 
