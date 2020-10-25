@@ -14,7 +14,7 @@ Our analysis consists of two parts as follows
 we elaborate on each in the following sections.
 
 ### **Analysis of Outcomes Based on Launch Date**
-The launch dates provided in the data (column "J" of the "kickstarter" sheet of excel file: kickstarter challenge.xlsx) are unix timestamps so first we needed to convert them to Gregorian date format (Column "S" of the "kickstarter" sheet). then we added another column labelled "years" containing only the year each campaign started in, so we can filter our data by year if it is needed.
+The launch dates provided in the data (column "J" of the "kickstarter" sheet of excel file: kickstarter_challenge.xlsx) are unix timestamps so first we needed to convert them to Gregorian date format (Column "S" of the "kickstarter" sheet). then we added another column labelled "years" containing only the year each campaign started in, so we can filter our data by year if it is needed.
 <p float="left">
   <img src="/other/launch-unix.PNG" width="200">
   <img src="/other/date-converted.PNG" width="350">
