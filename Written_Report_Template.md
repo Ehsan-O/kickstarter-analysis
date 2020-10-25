@@ -15,7 +15,7 @@ Our analysis consists of two parts as follows
 we elaborate on each in the following sections.
 
 ### **Analysis of Outcomes Based on Launch Date**
-The launch dates provided in the data (column"J" of the "kickstarter" sheet excel file: kickstarter challenge.xlsx) are unix timestamps so first we needed to convert them to gregorian date format (Column "S" and "T" of the kickstarter sheet). then we add another column labaled "years" containing only the year each campaign started so wecan filter our data by year if it is needed.
+The launch dates provided in the data (column"J" of the "kickstarter" sheet excel file: kickstarter challenge.xlsx) are unix timestamps so first we needed to convert them to gregorian date format (Column "S" of the kickstarter sheet). then we add another column labaled "years" containing only the year each campaign started so we can filter our data by year if it is needed.
 <p float="left">
   <img src="/other/launch-unix.PNG" width="200">
   <img src="/other/date-converted.PNG" width="350">
@@ -31,7 +31,11 @@ Finally a pivot chart was created based on the pivot table:
 
 <img src="/resources/Theater_Outcomes_vs_Launch.png">
 
-### Analysis of Outcomes Based on Goals
+### **Analysis of Outcomes Based on Goals**
+To perform this analysis we dicided the funding goal data into set of intervals and a tabale was created to show the number of successful, failed and canceled campaigns within each interval:  
+
+
+<img src="/others/goal-table.PNG">
 
 ### Challenges and Difficulties Encountered
 
