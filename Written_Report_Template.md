@@ -35,7 +35,11 @@ Finally a pivot chart was created based on the pivot table:
 To perform this analysis we dicided the funding goal data into set of intervals and a tabale was created to show the number of successful, failed and canceled campaigns within each interval:  
 
 
-<img src="/other/goal-table.PNG">
+<img src="/other/goal-table.PNG">  
+
+As mentioned before we created this table based on the data belong to "play" subcategory, a good way to do so is to use "COUNTIFS" function. Here you can see the formula written to calculate the number of successful play campaigns with funding goals in the range of $1000 to $4999:  
+
+<img src="/other/countifs.PNG">
 
 ### Challenges and Difficulties Encountered
 
